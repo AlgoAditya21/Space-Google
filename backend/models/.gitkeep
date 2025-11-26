@@ -1,0 +1,7 @@
+# Place your trained YOLOv8 model files here
+
+This directory is for storing your custom trained model files:
+- `best.pt` - PyTorch format
+- `best.onnx` - ONNX format
+
+If no model files are found here, the application will use the default YOLOv8n model.

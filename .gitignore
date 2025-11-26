@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.next/
+.env
+
+# Uploaded files and outputs
+backend/uploads/
+backend/outputs/
+
+# Model files (add separately)
+*.pt
+*.onnx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
